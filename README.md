@@ -1,16 +1,17 @@
-### Hi there 👋
+### Sup, I'm mightydogeplate
+I'm just a 14 year old developer trying how to make a game for the past month. Probably gonna fail but eh.
 
-<!--
-**Icicles2k/Icicles2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Epic stuff I use:
+* <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> NodeJS
+* <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"> Python
+* <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> JavaScript
+* <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"> TypeScript
 
-Here are some ideas to get you started:
+### What I'm currently learning:
+* <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/lua/lua.png"> Lua
+* <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> React
+* <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"> Go
+* <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png"> Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My ~~idiot~~ epic stats:
+![mightdogeplate's Stats](https://github-readme-stats.vercel.app/api?username=mightydogeplate&show_icons=true&theme=dark)
